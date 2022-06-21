@@ -9,6 +9,8 @@ otherwise could use a List.sort or convert to MapSets
 
 To test, run `mix test`
 
+AUTO-GENERATED BOILERPLATE:
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
