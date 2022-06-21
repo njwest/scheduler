@@ -1,6 +1,13 @@
 # Scheduler
 
-Code in `lib/scheduler.ex`.
+- Code in `lib/scheduler.ex`.
+- Tests in `test/scheduler_test.exs`
+- To run tests, run `mix test`
+
+NOTE: This module assumes lists of intervals are already sorted,
+otherwise could use a List.sort or convert to MapSets
+
+To test, run `mix test`
 
 ## Installation
 
